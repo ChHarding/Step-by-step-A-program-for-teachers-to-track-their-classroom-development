@@ -1,7 +1,13 @@
-Date,Category,Milestone,Note
-"Jun 01, 2025",Mobility,1,Started crawling
-"Mar 11, 2025",Mobility,2,Taking first steps
-"Nov 03, 2024",Social Emotional,1,Made eye contact
-"Feb 09, 2025",Social Emotional,2,Shared toy with peer
-"Apr 15, 2025",Cognitive,1,Recognized shapes
-"May 20, 2025",Language,1,First words
+Category,Milestone,Note,parsed_date,Flag
+Mobility,1,Started crawling,2025-06-01,
+Mobility,2,Taking first steps,2025-03-11,
+Social Emotional,1,Made eye contact,2024-11-03,
+Social Emotional,2,Shared toy with peer,2025-02-09,
+Cognitive,1,Recognized shapes,2025-04-15,
+Language,1,First words,2025-05-20,
+Mobility,8,test live,2025-07-11,
+Mobility,2,test live2,2025-07-11,regression
+Mobility,9,TESTLIVE3,2025-07-11,
+Mobility,16,TESTLIVE4,2025-07-11,
+Mobility,4,test live,2025-07-11,regression
+Mobility,10,test live,2025-07-11,regression
